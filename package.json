@@ -29,7 +29,7 @@
     "moment": "^2.29.4",
     "next": "13.4.4",
     "node-appwrite": "^9.0.0",
-    "postcss": "8.4.24",
+    "postcss": "8.4.31",
     "radix-ui": "^1.0.1",
     "reacharts": "^0.4.5",
     "react": "18.2.0",
